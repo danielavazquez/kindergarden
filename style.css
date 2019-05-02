@@ -1,0 +1,83 @@
+* {box-sizing: border-box;
+    margin: 0;  
+}
+
+body {
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 4rem;
+    
+}
+.text-center {
+    text-align: center;
+}
+
+h2 {
+    padding: 100px 0px 100px 0px;
+    font-size: 3em;
+}
+header {
+    height: 500px;
+    background-image: url('img/banner.jpg');
+    background-size: 100%;
+    
+
+}
+.content {
+    padding-bottom: 100px;
+}
+div, nav {
+    max-width: 800px;
+    margin: auto;
+}
+
+#mission {
+    background-color:#FFE964;      
+    text-align: center; 
+    color: #000000;
+}
+
+#about_us {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#our_team {
+    background-color: #FF523D;
+}
+
+#contact_us{
+    background-color:#223C88;
+}
+#banner {
+    padding-top: 150px;
+    max-width: 400px;
+    margin: 0px;
+    border-bottom: 3px solid white;
+}
+.yellow {
+    color: #FFE964;;
+}
+.red {
+    color: #FF523D;
+}
+.blue {
+    color: #223C88;  
+}
+nav li {
+    display: inline;
+    margin: 20px;
+}
+nav {
+    padding: 20px;
+}
+a {
+    color: black; 
+    text-decoration: none;
+    font-weight: bold;
+}
